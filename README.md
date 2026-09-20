@@ -52,10 +52,10 @@ Este análisis proporciona una hoja de ruta clara para priorizar recursos de des
 
 ### 📁 Estructura del Repositorio
 ```text
-├── README.md                     <- Presentación del proyecto e informe ejecutivo
+├── README.md                              <- Presentación del proyecto e informe ejecutivo
 ├── exports/  
     ├── embudo_general_por_pais.csv        <- Métricas globales del embudo de conversión
-    ├── retencion_por_pais.csv       <- Desglose regional del embudo de conversión
-    └── retencion_por_cohorte.csv       <- Métricas de retención por cohorte y por país
+    ├── retencion_por_pais.csv             <- Desglose regional del embudo de conversión
+    └── retencion_por_cohorte.csv          <- Métricas de retención por cohorte y por país
 
 
